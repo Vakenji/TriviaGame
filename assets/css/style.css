@@ -1,0 +1,92 @@
+.question {
+    color: red;
+}
+
+#timeLeft {
+    color: red;
+}
+
+.answerList {
+    line-height: 80px;
+    font-size: 20px; 
+    color: red;  
+}
+
+#currentQuestion {
+    color: red;
+}
+
+#message {
+    color: red;
+    font-size: 50px;
+    font-family: 'Kaushan Script', cursive;
+    
+}
+
+#correctedAnswer {
+    color: red;
+    font-size: 35px;
+    font-family: 'Kaushan Script', cursive;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+#finalMessage {
+    color: lime;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 45px;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+#correctAnswers {
+    color: red;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 35px;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+#incorrectAnswers {
+    color: red;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 35px;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+#unanswered {
+    color: red;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 35px;
+    font-style: italic;
+}
+
+header {
+    height: 570px;
+}
+
+.thisChoice:hover {
+    color: green;
+    cursor: pointer;
+}
+
+#startBtn {
+    color: red;
+    font-size: 60px;
+    font-style: italic;
+
+}
+
+#jpg {
+    padding-top: 25px;
+} 
+
+#playAgain {
+    position: relative;
+    left: auto;
+    color: yellow;
+    font-size: 174px;
+    font-style: italic;
+
+}
